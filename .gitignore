@@ -1,2 +1,3 @@
 /target
-/src/std*
+/src/stdout.txt
+/src/stderr.txt
