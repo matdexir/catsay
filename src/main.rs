@@ -37,10 +37,6 @@ fn main() -> Result<(), failure::Error>{
         message = options.message;
     };
 
-    if message.to_lowercase() == "woof" {
-        eprintln!("A cat shouldn't bark like a dog")
-    }
-
     let eye = if options.dead { "x" } else { "o" };
     println!("{}", message.bright_yellow()
              .underline()
