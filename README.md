@@ -2,12 +2,12 @@
 
 catsay is a rewrite of [cowsay](https://en.wikipedia.org/wiki/Cowsay) written rust. This small project has been heavily inspired by [Practical Rust Projects](https://www.apress.com/gp/book/9781484255988).
 
-## Installation
+## Installation :arrow_double_down:
 `clone` the repo then run:
 ```bash
-    cargo build --release
+cargo build --release
 ```
-## Usage
+## Usage :arrow_forward:
 ```bash
 catsay 0.1.0
 
