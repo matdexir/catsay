@@ -24,5 +24,5 @@ OPTIONS:
     -f, --file <catfile>    Load the cat picture from the specified file
 
 ARGS:
-    <message>    What doew the cat say? [default: Meow!]
+    <message>    What does the cat say? [default: Meow!]
 ```
