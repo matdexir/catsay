@@ -11,7 +11,7 @@ use std::io::{self, Read};
 #[derive(StructOpt)]
 struct Options {
     #[structopt(default_value = "Meow!")]
-    /// What doew the cat say?
+    /// What does the cat say?
     message: String,
 
     #[structopt(short = "d", long = "dead")]
